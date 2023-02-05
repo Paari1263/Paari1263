@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=fun%20(dev)%20🌈&width=1000&height=250)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Paari</h1>
-<h3 align="center">A passionate full-stack development aspirant from India</h3>
+<h3 align="center">A budding developer from India</h3>
 <img align="right" alt="Coding" width="500" src="http://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paari1263&label=Profile%20views&color=0e75b6&style=flat" alt="paari1263" /> </p>
