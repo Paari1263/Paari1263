@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN, Python**
 
-- 📫 How to reach me **paari1263@gmail.com**
+- 📫 How to reach me **paaridev1263@gmail.com**
 
 - ⚡ Fun fact **I love star gazing 🌠**
 
